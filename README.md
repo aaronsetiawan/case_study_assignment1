@@ -3,8 +3,10 @@
 RMIT University
 Aaron Setiawan s4237688
 
-Dataset 1: https://www.kaggle.com/datasets/saadabdurrazzaq/walmart-retail-data
-Dataset 2: plemaps.com/data/us-zips
+## Datasets
+* **Dataset 1:** [Walmart Retail Data](https://www.kaggle.com/datasets/saadabdurrazzaq/walmart-retail-data)
+* **Dataset 2:** [US Zip Codes (SimpleMaps)](https://simplemaps.com/data/us-zips)
 
-Machine Learning Model 1: K-Means
-Machine Learning Model 2: Decision Tree
+## Machine Learning Models
+* **Model 1:** K-Means
+* **Model 2:** Decision Tree
