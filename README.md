@@ -1,7 +1,7 @@
 # Case Study for Data Sciences - Assignment 1
 
-RMIT University
-Aaron Setiawan s4237688
+**Institution:** RMIT University  
+**Author:** Aaron Setiawan (s4237688)
 
 ## Datasets
 * **Dataset 1:** [Walmart Retail Data](https://www.kaggle.com/datasets/saadabdurrazzaq/walmart-retail-data)
